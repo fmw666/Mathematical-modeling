@@ -1,5 +1,13 @@
 # 🎓 数学建模 宝典秘籍
+
+<div align="center">
+    <img src="pics/titlepic.jpg" width="300">
+</div>
+
 &emsp;&emsp;***本文内容主要关于对数学建模相关的介绍与学习，如 [所需数学相关知识点掌握条例](#welcome) 、[所需相关软件学习与程序设计（涉及 matlab软件 与 python语言）](#welcome) 、 [必要算法介绍与学习（matlab软件 或 python语言实现）](#welcome)***
+
+## 【前言：我眼中的数学建模】
+&emsp;&emsp;首先如果你看到了这句话，d
 
 以下为整理的知识点集合，单击链接可跳转到相应目录下
 
