@@ -1,6 +1,7 @@
 # 📈 数学规划类问题
 
 <div align="center">
+    <br>
     <img src="pics/titlepic.gif" width="200">
 </div>
 
