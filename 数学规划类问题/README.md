@@ -101,3 +101,19 @@
 </div>
 
 > 其中 X = ( x<sub>1</sub> , x<sub>2</sub> , ··· , x<sub>n</sub> )<sup>T</sup> ∈ E<sup>n</sup>，f，g<sub>i</sub>，h<sub>j</sub> 是定义在 E<sup>n</sup> 上的实值函数，简记：f : E<sup>n</sup> → E<sup>1</sup>，g<sub>i</sub> : E<sup>n</sup> → E<sup>1</sup>，h<sub>j</sub> : E<sup>n</sup> → E<sup>1</sup>
+
+数学规划类型有：线性规划、非线性规划、整数规划
+
+---
+
+<div align="right">
+    <a href="#-目录">返回目录 ⬆</a>
+</div>
+
+<div align="center">
+    <a href="#-线性规划"><img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=30></a>
+</div>
+
+## ☁ 线性规划
+
+&emsp;&emsp;<br>先看一道简单的应用题：
