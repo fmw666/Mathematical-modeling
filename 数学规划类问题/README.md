@@ -13,6 +13,8 @@
 
 1. [非线性规划](#非线性规划)
 
+1. [整数规划](#整数规划)
+
 <div align="center">
     <a href="#-基本的数学模型建立"><img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=30></a>
 </div>
@@ -92,3 +94,10 @@
 
 ---
 
+&emsp;&emsp;数学规划（优化）模型一般形式如下：
+
+<div align="center">
+    <img src="pics/f4.gif" width=150>
+</div>
+
+> 其中 X = ( x<sub>1</sub> , x<sub>2</sub> , ··· , x<sub>n</sub> )<sup>T</sup> ∈ E<sup>n</sup>，f，g<sub>i</sub>，h<sub>j</sub> 是定义在 E<sup>n</sup> 上的实值函数，简记：f : E<sup>n</sup> → E<sup>1</sup>，g<sub>i</sub> : E<sup>n</sup> → E<sup>1</sup>，h<sub>j</sub> : E<sup>n</sup> → E<sup>1</sup>
