@@ -47,7 +47,7 @@
 
 + 求解得到[数学解答](#welcome)（x=20，y=5）；
 
-+ [回答](#welcome)原问（船速每小时20千米/小时性数学数学解答](#welco。<br>
++ [回答](#welcome)原问（船速每小时20千米/小时性数学数学解答）。<br>
 
 <br>
 &emsp;&emsp;看完这种题你是否会觉得好简单？很正常，其原因在于这是我们从小到大数学课上都会遇到的普遍应用性数学问题。<br>
@@ -74,3 +74,21 @@
     &emsp;&emsp;<img src="pics/chair1.jpg" width=500><br>
     &emsp;&emsp;<img src="pics/chair2.jpg" width=500>
 </div>
+
+---
+
+&emsp;&emsp;上面也让我们对模型有了一定的认识，那什么是规划类模型呢？一道典型的规划类问题如下：
+
+---
+
+💡 **[问：对边长为 3 米的正方形铁板，在四个角剪去相等的正方形以制成方形无盖水槽，问如何剪法使水槽的容积最大？](#quetion)**
+
+&emsp;&emsp;解：设剪去的正方形的边长为 x，则水槽的容积为：(3-2x)²x<br>&emsp;&emsp;&emsp;&emsp;可转化为如下形式：
+
+<div align="center">
+    <img src="pics/f2.gif" width=150><br>
+    <img src="pics/f3.gif" width=150>
+</div>
+
+---
+
