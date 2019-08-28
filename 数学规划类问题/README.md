@@ -97,7 +97,7 @@
 &emsp;&emsp;数学规划（优化）模型一般形式如下：
 
 <div align="center">
-    <img src="pics/f4.gif" width=150>
+    <img src="pics/f4.gif" width=200>
 </div>
 
 > 其中 X = ( x<sub>1</sub> , x<sub>2</sub> , ··· , x<sub>n</sub> )<sup>T</sup> ∈ E<sup>n</sup>，f，g<sub>i</sub>，h<sub>j</sub> 是定义在 E<sup>n</sup> 上的实值函数，简记：f : E<sup>n</sup> → E<sup>1</sup>，g<sub>i</sub> : E<sup>n</sup> → E<sup>1</sup>，h<sub>j</sub> : E<sup>n</sup> → E<sup>1</sup>
