@@ -87,7 +87,7 @@
 
 <div align="center">
     <img src="pics/f2.gif" width=150><br>
-    <img src="pics/f3.gif" width=150>
+    &emsp;&emsp;&ensp;<img src="pics/f3.gif" width=150>
 </div>
 
 ---
