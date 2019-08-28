@@ -14,7 +14,7 @@
 1. [非线性规划](#非线性规划)
 
 <div align="center">
-    <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=150>
+    <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=50>
 </div>
 
 ## ☁ 基本的数学模型建立
