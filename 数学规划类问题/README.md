@@ -69,6 +69,6 @@
 
 &emsp;&emsp;[模型构成：](#welcome) 用数学语言把椅子位置和四只脚着地的关系表示出来。
           
-<div align="center">
-    <img src="pics/chair.jpg" width=500>
+<div align="left">
+    &emsp;&emsp;<img src="pics/chair.jpg" width=500>
 </div>
