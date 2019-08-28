@@ -14,7 +14,7 @@
 1. [非线性规划](#非线性规划)
 
 <div align="center">
-    <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=50>
+    <a href="#-基本的数学模型建立"><img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=50></a>
 </div>
 
 ## ☁ 基本的数学模型建立
@@ -28,7 +28,7 @@
 &emsp;&emsp;解：用 x 表示船速，y表示水速，列出方程：
 
 <div align="center">
-    <a href="#-基本的数学模型建立"><img src="pics/f1.gif" width=50></a>
+    <img src="pics/f1.gif" width=150>
 </div>
 
 &emsp;&emsp;解得： x=20，y=5
