@@ -115,19 +115,19 @@
 
 ## Matlab 矩阵（数值）运算
 
-+ 建立矩阵的常用函数
++ **建立矩阵的常用函数**
 
-|函数名|作用|
-|:--:|:--:|
-|zeros(m,n)|生成一个 m 行 n 列的零矩阵，<br>m=n 时可简写成 zeros(n)|
-|ones(m,n)|生成一个 m 行 n 列的元素全为 1 的矩阵，<br>m=n 时可写成 ones(n)|
-|eye(m,n)|生成一个主对角线全为 1 的 m 行 n 列矩阵，<br>m=n 时可简写成 eye(n)，即为 n 维单位矩阵|
-|diag(X)|若 X 是矩阵，则 diag(X) 为 X 的主对角线向量<br>若 X 是向量，则 diag(X) 产生以 X 为主对角线的对角矩阵|
-|tril(A)|提取一个矩阵的下三角部分|
-|triu(A)|提取一个矩阵的上三角部分|
-|rand(m,n)|产生 0~1 间均匀分布的随机矩阵，<br>m=n 时简写成 rand(n)|
-|randn(m,n)|产生均值为 0，方差为 1 的标准正态分布随机矩阵，<br>m=n 时简写成 randn(n)|
-|其它特殊矩阵生成函数：magic、hilb、pascal|
+    |函数名|作用|
+    |:--:|:--:|
+    |zeros(m,n)|生成一个 m 行 n 列的零矩阵，<br>m=n 时可简写成 zeros(n)|
+    |ones(m,n)|生成一个 m 行 n 列的元素全为 1 的矩阵，<br>m=n 时可写成 ones(n)|
+    |eye(m,n)|生成一个主对角线全为 1 的 m 行 n 列矩阵，<br>m=n 时可简写成 eye(n)，即为 n 维单位矩阵|
+    |diag(X)|若 X 是矩阵，则 diag(X) 为 X 的主对角线向量<br>若 X 是向量，则 diag(X) 产生以 X 为主对角线的对角矩阵|
+    |tril(A)|提取一个矩阵的下三角部分|
+    |triu(A)|提取一个矩阵的上三角部分|
+    |rand(m,n)|产生 0~1 间均匀分布的随机矩阵，<br>m=n 时简写成 rand(n)|
+    |randn(m,n)|产生均值为 0，方差为 1 的标准正态分布随机矩阵，<br>m=n 时简写成 randn(n)|
+    |其它特殊矩阵生成函数：magic、hilb、pascal|（可使用如 help magic、doc magic 等命令来查看指令帮助说明）|
 
 
 <div align="right">
