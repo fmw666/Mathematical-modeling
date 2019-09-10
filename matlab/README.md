@@ -127,7 +127,7 @@
     |triu(A)|提取一个矩阵的上三角部分|
     |rand(m,n)|产生 0~1 间均匀分布的随机矩阵，<br>m=n 时简写成 rand(n)|
     |randn(m,n)|产生均值为 0，方差为 1 的标准正态分布随机矩阵，<br>m=n 时简写成 randn(n)|
-    |其它特殊矩阵生成函数：magic、hilb、pascal|（可使用如 help magic、doc magic 等命令来查看指令帮助说明）|
+    |其它特殊矩阵生成函数：magic、hilb、pascal|（可使用如 [help magic](#welcome)、[doc magic](#welcome) 等命令来查看指令帮助说明）|
 
 
 <div align="right">
