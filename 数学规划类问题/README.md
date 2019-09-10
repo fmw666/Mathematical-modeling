@@ -11,9 +11,9 @@
 
 1. [线性规划](#线性规划)
 
-1. [非线性规划](#非线性规划)
-
 1. [整数规划](#整数规划)
+
+1. [非线性规划](#非线性规划)
 
 <div align="center">
     <a href="#-基本的数学模型建立"><img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width=30></a>
