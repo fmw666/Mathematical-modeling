@@ -54,10 +54,10 @@
 
 > *以下均假设图为简单图*
 
-&emsp;&emsp;对无向图 G，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
+对无向图 G，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
 
 <div align="center">
-    <img src="pics/f1.gif" width=200>
+    <img src="pics/f1.gif" width=250>
 </div>
 
 <div align="right">
