@@ -136,11 +136,64 @@
 
 ## Matlab 图形与可视化
 
++ **二维平面图形与坐标系**
+
+    + 线性坐标曲线 plot
+        ```matlab
+        >> plot(X,Y)
+        >> plot(x1,y1,x2,y2,...)
+        ```
+
+        + 利用命令 plot(x,y) 绘制函数 y=cos(x) 在两个周期内的图形：
+            ```matlab
+            x = 0:0.01:2*pi;
+            y = cos(x);
+            plot(x,y)
+            ```
+        
+        + 在同一图形窗口中用命令 plot(x,y) 绘出正弦余弦函数的图形：
+            ```matlab
+            x = 0:0.01:2*pi;
+            y = [sin(x);cos(x)];
+            plot(x,y)
+            ```
+
+    + 二维函数曲线专用命令 fplot
+        ```matlab
+        [X,Y] = fplot('fun',lims)
+        ```
+        > fun：函数名字符串<br>lims：定义 x 的取值区间，lims=[xmin,xmax]
+
++ **三维绘图**
+
+    + 略
+
 <div align="right">
     <a href="#-目录">返回目录⬆</a>
 </div>
 
 ## Matlab 符号运算（Symbolic）
+
+&emsp;&emsp;Matlab 符号运算是通过 符号数学工具箱（Symbolic Math Toolbox）来实现的。Matlab 符号数学工具箱是建立在功能强大的 Maple 软件的基础上，当 Matlab 进行符号运算时，它就请求 Maple 软件去计算并将结果返回给 Matlab。
+
++ **Matlab 符号运算举例**
+
+    + 求一元二次方程 ax²+bx+c=0 的根：
+        ```matlab
+        >> solve('a*x^2+b*x+c=0')
+        ```
+    
+    + 求得根 f(x)=(cos x)² 的一次导数：
+        ```matlab
+        >> x = sym('x');
+        >> diff(cos(x)^2)
+        ```
+
+    + 计算 f(x)=x² 在区间 [a,b] 上的定积分：
+        ```matlab
+        >> syms a b x;
+        >> int(x^2,a,b)
+        ```
 
 <div align="right">
     <a href="#-目录">返回目录⬆</a>
