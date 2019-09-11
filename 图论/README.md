@@ -82,15 +82,15 @@
 + 对 [无向图 G=(V,E)](#welcome)，其关联矩阵 M=(m<sub>ij</sub>)<sub>v×ε</sub>，其中：
 
 <div align="center">
-    <img src="pics/f4.gif" width=180><br><br>
-    <img src="pics/Associated-Matrix1.png" width=330><br>
+    <img src="pics/f4.gif" width=230><br><br>
+    <img src="pics/Associated-Matrix1.png" width=350><br>
 </div>
 
 + 对 [有向图 G=(V,E)](#welcome)，其关联矩阵 M=(m<sub>ij</sub>)<sub>v×ε</sub>，其中：
 
 <div align="center">
-    <img src="pics/f5.gif" width=180><br><br>
-    <img src="pics/Associated-Matrix2.png" width=330><br>
+    <img src="pics/f5.gif" width=230><br><br>
+    <img src="pics/Associated-Matrix2.png" width=350><br>
 </div>
 
 <div align="right">
