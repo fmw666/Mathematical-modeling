@@ -64,8 +64,15 @@
 + 对 [有向图 G=(V,E)](#welcome)，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
 
 <div align="center">
-    <img src="pics/f2.gif" width=200><br><br>
+    <img src="pics/f2.gif" width=180><br><br>
     <img src="pics/Adjacency-Matrix2.png" width=330>
+</div>
+
++ 对 [有向赋权图 G=(V,E)](#welcome)，权为 w<sub>ij</sub>，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
+
+<div align="center">
+    <img src="pics/f3.gif" width=180><br><br>
+    <img src="pics/Adjacency-Matrix3.png" width=330>
 </div>
 
 <div align="right">
