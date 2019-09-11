@@ -32,13 +32,13 @@
 
 ### 定义
 
-&emsp;&emsp;一个图G是指一个二元组 (V(G),E(G))，其中：<br>
-&emsp;&emsp;1）V(G)={v<sub>1</sub>,v<sub>2</sub>,...,v<sub>v</sub>} 是非空有限集，称为顶点集，其中元素称为图G的顶点。<br>
-&emsp;&emsp;2）E(G) 是顶点集 V(G) 中的无序或有序的元素偶对 (v<sub>i</sub>,v<sub>j</sub>) 组成的集合，即称为边集，其中元素称为边。
++ 一个 **[图G](#welcome)** 是指一个 **[二元组 (V(G),E(G))](#welcome)** ，其中：<br>
+&emsp;&emsp;***1）*** **[V(G)={v<sub>1</sub>,v<sub>2</sub>,...,v<sub>v</sub>}](#welcome)** 是非空有限集，称为 **[顶点集](#welcome)** ，其中元素称为图G的顶点。<br>
+&emsp;&emsp;***2）*** **[E(G)](#welcome)** 是顶点集 V(G) 中的无序或有序的元素偶对 (v<sub>i</sub>,v<sub>j</sub>) 组成的集合，即称为 **[边集](#welcome)** ，其中元素称为边。
 
-&emsp;&emsp;图G的阶是指图的顶点数 |V(G)|，用 v 来表示；图的边的数目 |E(G)| 用 ε 来表示。
++ 图G的阶是指图的顶点数 |V(G)|，用 v 来表示；图的边的数目 |E(G)| 用 ε 来表示。
 
-&emsp;&emsp;用 G=(V(G),E(G)) 表示图，简记 G=(V,E)。也用 v<sub>i</sub>v<sub>j</sub> 来表示边 (v<sub>i</sub>,v<sub>j</sub>)。
++ 用 G=(V(G),E(G)) 表示图，简记 G=(V,E)。也用 v<sub>i</sub>v<sub>j</sub> 来表示边 (v<sub>i</sub>,v<sub>j</sub>)。
 
 <div align="right">
     <a href="#-目录">返回目录 ⬆</a>
