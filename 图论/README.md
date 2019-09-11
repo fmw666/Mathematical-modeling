@@ -58,14 +58,14 @@
 
 <div align="center">
     <img src="pics/f1.gif" width=230><br><br>
-    <img src="pics/Adjacency-Matrix1.png" width=300>
+    <img src="pics/Adjacency-Matrix1.png" width=320>
 </div>
 
 + 对 [有向图 G=(V,E)](#welcome)，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
 
 <div align="center">
-    <img src="pics/f2.gif" width=230><br><br>
-    <img src="pics/Adjacency-Matrix2.png" width=300>
+    <img src="pics/f2.gif" width=200><br><br>
+    <img src="pics/Adjacency-Matrix2.png" width=330>
 </div>
 
 <div align="right">
