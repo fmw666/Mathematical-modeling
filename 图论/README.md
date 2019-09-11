@@ -40,13 +40,25 @@
 
 + 用 G=(V(G),E(G)) 表示图，简记 G=(V,E)。也用 v<sub>i</sub>v<sub>j</sub> 来表示边 (v<sub>i</sub>,v<sub>j</sub>)。
 
+### 赋权图
+
++ 若图 G=(V(G),E(G)) 的每一条边 e 都赋以一个实数 w(e)，称 w(e) 为边 e 的 [权](#welcome)，G 连同边上的权称为 [赋权图](#welcome)。
+
 <div align="right">
     <a href="#-目录">返回目录 ⬆</a>
 </div>
 
 ## 💬 图的矩阵表示
 
+### 邻接矩阵
 
+> *以下均假设图为简单图*
+
+对无向图 G，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
+
+<div align="center">
+    <img src="pics/f1.gif" width=400>
+</div>
 
 <div align="right">
     <a href="#-目录">返回目录 ⬆</a>
