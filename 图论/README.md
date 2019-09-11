@@ -58,21 +58,39 @@
 
 <div align="center">
     <img src="pics/f1.gif" width=230><br><br>
-    <img src="pics/Adjacency-Matrix1.png" width=320>
+    <img src="pics/Adjacency-Matrix1.png" width=320><br>
 </div>
 
 + 对 [有向图 G=(V,E)](#welcome)，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
 
 <div align="center">
     <img src="pics/f2.gif" width=180><br><br>
-    <img src="pics/Adjacency-Matrix2.png" width=330>
+    <img src="pics/Adjacency-Matrix2.png" width=330><br>
 </div>
 
 + 对 [有向赋权图 G=(V,E)](#welcome)，权为 w<sub>ij</sub>，其邻接矩阵 A=(a<sub>ij</sub>)<sub>v×v</sub>，其中：
 
 <div align="center">
     <img src="pics/f3.gif" width=180><br><br>
-    <img src="pics/Adjacency-Matrix3.png" width=330>
+    <img src="pics/Adjacency-Matrix3.png" width=330><br>
+</div>
+
+> 对于 [无向赋权图](#welcome) 的邻接矩阵可类似定义。
+
+### 关联矩阵
+
++ 对 [无向图 G=(V,E)](#welcome)，其关联矩阵 M=(m<sub>ij</sub>)<sub>v×ε</sub>，其中：
+
+<div align="center">
+    <img src="pics/f4.gif" width=180><br><br>
+    <img src="pics/Associated-Matrix1.png" width=330><br>
+</div>
+
++ 对 [有向图 G=(V,E)](#welcome)，其关联矩阵 M=(m<sub>ij</sub>)<sub>v×ε</sub>，其中：
+
+<div align="center">
+    <img src="pics/f5.gif" width=180><br><br>
+    <img src="pics/Associated-Matrix2.png" width=330><br>
 </div>
 
 <div align="right">
